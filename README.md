@@ -14,8 +14,10 @@ Example:
 ```
 sudo apt install PackageName
 ```
-*Make sure to use kali-get.sh only when the package is not avaible in ubuntu repositories.* <br>
+**Make sure to use kali-get.sh only when the package is avaible in ubuntu repositories** 
 Check using
 ```
 apt-cache search PackageName
 ```
+note:
+**do not run apt upgrade using this script. upgrade your kali packges separately**
