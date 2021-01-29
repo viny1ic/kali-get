@@ -10,15 +10,18 @@ bash install.sh
 ```
 bash kali-get.sh
 ```
+<br>
 ### 2.2 enter the apt command you would normally use. <br>
 Example:
 ```
 sudo apt install PackageName
 ```
+<br>
 <b> Make sure to use kali-get.sh only when the package is avaible in ubuntu repositories. </b> <br>
 Check using
 ```
 apt-cache search PackageName
 ```
+<br>
 
 
