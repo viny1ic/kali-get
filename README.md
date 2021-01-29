@@ -1,27 +1,21 @@
 # kali-get
-## package manager to install kali packages in ubuntu <br>
+## package manager to install kali packages in ubuntu
 ## 1. installation
 ```
 bash install.sh
 ```
-<br>
 ## 2. Usage
 ### 2.1 Invoke the script using
 ```
 bash kali-get.sh
 ```
-<br>
 ### 2.2 enter the apt command you would normally use. <br>
 Example:
 ```
 sudo apt install PackageName
 ```
-<br>
-<b> Make sure to use kali-get.sh only when the package is avaible in ubuntu repositories. </b> <br>
+*Make sure to use kali-get.sh only when the package is avaible in ubuntu repositories.* <br>
 Check using
 ```
 apt-cache search PackageName
 ```
-<br>
-
-
