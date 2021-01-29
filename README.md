@@ -14,7 +14,7 @@ Example:
 ```
 sudo apt install PackageName
 ```
-*Make sure to use kali-get.sh only when the package is avaible in ubuntu repositories.* <br>
+*Make sure to use kali-get.sh only when the package is not avaible in ubuntu repositories.* <br>
 Check using
 ```
 apt-cache search PackageName
